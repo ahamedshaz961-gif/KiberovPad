@@ -32,6 +32,11 @@ The PCB was designed in KiCad.
 
 The PCB contains the 3x3 switch matrix, RP2040, rotary encoder, OLED connection and RGB LED chain.
 
+## body
+
+<img src="assets/top case.png" alt="Top Case" width="400"/>
+<img src="assets/bottom case.png" alt="Bottom Case" width="400"/>
+<img src="assets/rotary cap.png" alt="Rotary Cap" width="400"/>
 ## Pinout
 Function	GPIO
 Row 1	GP2
