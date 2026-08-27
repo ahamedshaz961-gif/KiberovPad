@@ -524,9 +524,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "D:/Downloads/gerbers/",
       "specctra_dsn": "",
-      "step": "../../../KiberovPad/HackPadPCB.step",
+      "step": "D:/Downloads/pcbonlycad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
